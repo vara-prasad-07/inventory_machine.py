@@ -27,5 +27,5 @@ A no-nonsense Inventory Management System designed to simplify and optimize mana
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/yourusername/inventory-management-system.git
-   cd inventory-management-system
+   https://github.com/vara-prasad-07/inventory_machine_.git
+   cd inventory_machine_
